@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SCRIBE</string>
+    <string name="msg">No tasks created yet.</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_desc">Task Description</string>
+    <string name="add_task">Add Task</string>
+    <string name="update_task">Update Task</string>
+</resources>
